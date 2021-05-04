@@ -1,6 +1,13 @@
-# Getting Started with Create React App
+# Music Library
+This is demo project
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Installation
+
+Please fork the repository and run `yarn install` or `npm install`.
+
+## Guide
+
+First page is landing page where you will find the link to music library-> library contains the list of tracks and metrics. (You can sort each column)
 
 ## Available Scripts
 
